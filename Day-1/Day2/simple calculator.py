@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+total=a+b
+difference=a-b
+product=a*b
+division=a/b
+print(total)
+print(difference)
+print(product)
+print(division)
